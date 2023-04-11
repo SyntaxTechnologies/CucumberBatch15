@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         glue = "StepDefinitions",
         dryRun = false,
         tags = "@smoke2",
-        plugin = {"pretty"}
+        plugin = {"pretty"}//test
 
 )
 
